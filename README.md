@@ -9,3 +9,5 @@ Hexion is an emerging student association of department PXL -IT Founded in the y
 We had to develop a forum, events, login, register, profile and edit_profile page within the MVC ideals.
 
 There might be some bugs in the project but the main concept is functional.
+
+http://kennethgeris.com/project
