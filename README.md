@@ -10,4 +10,4 @@ We had to develop a forum, events, login, register, profile and edit_profile pag
 
 There might be some bugs in the project but the main concept is functional.
 
-http://kennethgeris.com/project
+<a href="http://kennethgeris.com/project" target="_blank">http://kennethgeris.com/project</a>
